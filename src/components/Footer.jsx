@@ -4,16 +4,16 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-container">
-        <p>© 2026 Syed Abdul Raheem. All rights reserved.</p>
+        <p>© 2026 Mahammad Fazal Mustafa. All rights reserved.</p>
 
         <div className="footer-links">
-          <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+          <a href="https://github.com/fazalmustafa15-ops" target="_blank" rel="noreferrer">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+          <a href="https://linkedin.com/in/mohammad-fazal-mustafa-b5839137a/" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
-          <a href="mailto:your-email@gmail.com">
+          <a href="fazalmustafa15@gmail.com">
             <FaEnvelope />
           </a>
           <a href="#home">

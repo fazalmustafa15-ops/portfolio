@@ -14,7 +14,7 @@ function Hero() {
           <p className="hero-badge">Full Stack Developer</p>
 
           <h1>
-            Hi, I&apos;m <span>Mohammad Fazal Mustafa</span>
+            Hi, I&apos;m <span>Mahammad Fazal Mustafa</span>
           </h1>
 
           <p className="hero-description">
