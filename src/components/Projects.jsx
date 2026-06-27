@@ -34,9 +34,6 @@ function Projects() {
                   <a href={project.github} target="_blank" rel="noreferrer">
                     <FaGithub /> GitHub
                   </a>
-                  <a href={project.live} target="_blank" rel="noreferrer">
-                    <FaExternalLinkAlt /> Live Demo
-                  </a>
                 </div>
               </div>
             </div>
