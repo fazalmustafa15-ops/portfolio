@@ -9,7 +9,7 @@ function Projects() {
           <p className="section-tag">Projects</p>
           <h2 className="section-title">Featured Work</h2>
           <p className="section-subtitle">
-            A selection of full-stack, .NET, and Unity projects that demonstrate my development skills.
+            A selection of full-stack projects that demonstrate my expertise in frontend and backend development.
           </p>
         </div>
 

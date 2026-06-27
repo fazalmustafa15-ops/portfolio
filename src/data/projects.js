@@ -15,22 +15,6 @@ const projects = [
     github: "#",
     live: "#",
   },
-  {
-    title: "Employee Management Web API",
-    description:
-      "A .NET Web API project for managing employee records using ASP.NET Core, Entity Framework, SQL Server, and JWT authentication.",
-    tech: ["ASP.NET Core", "C#", "EF Core", "SQL Server"],
-    github: "#",
-    live: "#",
-  },
-  {
-    title: "Unity AR/VR Training Applications",
-    description:
-      "Immersive AR/VR applications developed using Unity and C# for interactive training and simulation experiences.",
-    tech: ["Unity", "C#", "AR", "VR"],
-    github: "#",
-    live: "#",
-  },
 ];
 
 export default projects;
