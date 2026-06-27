@@ -1,16 +1,153 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and professional portfolio website built using **React.js** and **Vite** to showcase my skills, experience, projects, and professional journey as a **Full Stack Developer, .NET Developer, and Unity XR Developer**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Portfolio Website:**
+https://portfolio-rho-beryl-xuz3mh4tku.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 📌 Backend Repository
 
-## Expanding the ESLint configuration
+The contact form is powered by a separate Express.js backend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Backend Repository:**
+https://github.com/fazalmustafa15-ops/portfolio-backend.git
+
+**Backend Live API:**
+https://portfolio-backend-314f.onrender.com
+
+---
+
+# ✨ Features
+
+* Modern and responsive UI
+* Professional Hero section
+* About Me section
+* Experience timeline
+* Skills showcase
+* Featured projects
+* Resume download
+* Functional contact form
+* SEO-friendly structure
+* Mobile-friendly design
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* CSS3
+* Framer Motion
+* React Icons
+* Axios
+
+## Backend
+
+The backend is maintained in a separate repository and provides:
+
+* Express.js REST API
+* Resend email integration
+* Contact form validation
+* Environment variable configuration
+
+------
+
+# 📄 Website Sections
+
+* Home
+* About
+* Skills
+* Projects
+* Contact
+
+---
+
+# 📬 Contact Form
+
+The contact form is integrated with a dedicated backend service built using Express.js.
+
+When a visitor submits the form:
+
+* Input is validated
+* Request is sent securely to the backend
+* Email is delivered using the Resend API
+* Success and error messages are displayed to the user
+
+---
+
+# ⚙️ Getting Started
+
+## Clone the repository
+
+```bash
+git clone https://github.com/fazalmustafa15-ops/portfolio.git
+```
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+## Start development server
+
+```bash
+npm run dev
+```
+
+## Build for production
+
+```bash
+npm run build
+```
+
+## Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+# 🌍 Deployment
+
+**Frontend:** Vercel
+
+**Backend:** Render
+
+---
+
+# 📌 Future Enhancements
+
+* Dark / Light mode
+* Blog section
+* Project filtering
+* Visitor analytics
+* Custom domain
+* Multi-language support
+
+---
+
+# 📫 Connect With Me
+
+**Portfolio:**
+https://portfolio-rho-beryl-xuz3mh4tku.vercel.app/
+
+**GitHub:**
+https://github.com/fazalmustafa15-ops/
+
+**LinkedIn:**
+https://www.linkedin.com/in/mohammad-fazal-mustafa-b5839137a/
+
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
