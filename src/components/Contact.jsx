@@ -8,8 +8,7 @@ function Contact() {
           <p className="section-tag">Contact</p>
           <h2 className="section-title">Get In Touch</h2>
           <p className="section-subtitle">
-            I am open to Full Stack Developer, .NET Developer, Unity Developer,
-            freelance, and internship opportunities.
+            Open to Full-Stack Developer, Software Developer, freelance, and internship opportunities.
           </p>
         </div>
 
@@ -19,17 +18,17 @@ function Contact() {
 
             <div className="contact-item">
               <FaEnvelope />
-              <span>your-email@gmail.com</span>
+              <span>fazalmustafa15@gmail.com</span>
             </div>
 
             <div className="contact-item">
               <FaLinkedin />
-              <span>linkedin.com/in/your-profile</span>
+              <span>linkedin.com/in/mohammad-fazal-mustafa-b5839137a/</span>
             </div>
 
             <div className="contact-item">
               <FaGithub />
-              <span>github.com/your-username</span>
+              <span>github.com/fazalmustafa15-ops</span>
             </div>
 
             <div className="contact-item">
