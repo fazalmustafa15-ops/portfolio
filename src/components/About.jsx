@@ -35,7 +35,7 @@ function About() {
               <FaGraduationCap />
               <h4>Education</h4>
               <p>B.Tech in Computer Science and Engineering</p>
-              <span>NIE College, Macherla</span>
+              <span>Newton's institute of engineering, Macherla</span>
             </div>
 
             <div className="about-info card">
