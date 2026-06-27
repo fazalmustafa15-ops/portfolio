@@ -12,7 +12,7 @@ function Navbar() {
     <header className="navbar">
       <div className="nav-container">
         <a href="#home" className="logo" onClick={closeMenu}>
-          Abdul<span>Raheem</span>
+          Fazal<span>Mustafa</span>
         </a>
 
         <nav className={menuOpen ? "nav-menu active" : "nav-menu"}>

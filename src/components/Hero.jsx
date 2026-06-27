@@ -11,15 +11,14 @@ function Hero() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="hero-badge">Full Stack Developer | .NET Developer | Unity XR Developer</p>
+          <p className="hero-badge">Full Stack Developer</p>
 
           <h1>
-            Hi, I&apos;m <span>Syed Abdul Raheem</span>
+            Hi, I&apos;m <span>Mohammad Fazal Mustafa</span>
           </h1>
 
           <p className="hero-description">
-            I build modern web applications, scalable backend systems, and immersive
-            Unity AR/VR experiences with clean, responsive, and user-focused design.
+            Final-year B.Tech student and aspiring Full-Stack Developer focused on building modern web applications, scalable backend systems, and responsive user interfaces. Passionate about writing clean, efficient code and developing real-world solutions using React, Node.js, Express, and MongoDB.
           </p>
 
           <div className="hero-buttons">
@@ -31,13 +30,13 @@ function Hero() {
           </div>
 
           <div className="social-links">
-            <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+            <a href="https://github.com/fazalmustafa15-ops" target="_blank" rel="noreferrer">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/mohammad-fazal-mustafa-b5839137a/" target="_blank" rel="noreferrer">
               <FaLinkedin />
             </a>
-            <a href="mailto:your-email@gmail.com">
+            <a href="fazalmustafa15@gmail.com">
               <FaEnvelope />
             </a>
           </div>
@@ -50,7 +49,7 @@ function Hero() {
           transition={{ duration: 0.8 }}
         >
           <div className="hero-image">
-            <span>SA</span>
+            <span>FM</span>
           </div>
         </motion.div>
       </div>

@@ -14,24 +14,9 @@ function Skills() {
       skills: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
     },
     {
-      title: ".NET",
-      icon: <SiDotnet />,
-      skills: ["ASP.NET Core", "C#", "MVC", "Entity Framework"],
-    },
-    {
       title: "Database",
       icon: <FaDatabase />,
       skills: ["MongoDB", "MySQL", "SQL Server"],
-    },
-    {
-      title: "Unity XR",
-      icon: <FaUnity />,
-      skills: ["Unity", "C#", "AR", "VR", "Interactive Training"],
-    },
-    {
-      title: "Tools",
-      icon: <FaTools />,
-      skills: ["Git", "GitHub", "Postman", "VS Code", "Visual Studio"],
     },
   ];
 
@@ -42,8 +27,7 @@ function Skills() {
           <p className="section-tag">Skills</p>
           <h2 className="section-title">Technical Skills</h2>
           <p className="section-subtitle">
-            Technologies and tools I use to build web applications, backend systems,
-            and immersive Unity experiences.
+            Technologies I use to build modern web applications, scalable backend systems, and responsive user experiences.
           </p>
         </div>
 
